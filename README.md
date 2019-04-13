@@ -1,6 +1,8 @@
 # Terminal Progress Bar
 A easy to use python progress bar for your terminal.
 
+![Example Gif](https://media.giphy.com/media/UUnB14M9E9cP906hA6/giphy.gif)
+
 Options:
 * label - the text infront of the bar
 * bar_length - number of total markers to show
