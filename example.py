@@ -1,4 +1,4 @@
-import progressbar as pb
+import wfprogressbar as pb
 import time
 
 
