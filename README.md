@@ -9,12 +9,16 @@ Options:
 * full_marker - character for progress indicator
 * empty_marker - character for remaining progress
 
+## Installation 
+
+    pip install wfprogressbar
+
 ## Usage
 
 Check out the included example.py for a working demo of the default usage and a customized version.
 
 ```
-import progressbar as pb
+import wfprogressbar as pb
 
 bar = pb.ProgressBar()
 
